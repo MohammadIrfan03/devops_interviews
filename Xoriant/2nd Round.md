@@ -78,7 +78,7 @@
 
 39. Can you **write a Python program** to solve the following problem: **Find the shortest unique prefix for each word in a given array**?
 
----
+----
 
 # Answers
 
@@ -101,7 +101,7 @@ In my current role, my responsibilities expanded beyond traditional DevOps into 
 
 Overall, my career has evolved from **pipeline operations and deployment support** to **designing secure, automated, and standardized DevOps platforms**.
 
----
+
 
 # Question 2
 
@@ -134,7 +134,7 @@ As I gained experience, I started taking ownership of more critical activities, 
 
 After moving to my current organization, my role expanded further into **DevSecOps**, where I became responsible for integrating security into CI/CD pipelines, implementing compliance controls, automating security scans, and improving deployment reliability across multiple environments.
 
----
+
 
 # Question 3
 
@@ -159,7 +159,7 @@ My responsibilities included:
 
 As I became more comfortable with the environment, I gradually started contributing to **pipeline improvements**, **automation scripts**, and **deployment optimization**.
 
----
+
 
 # Question 4
 
@@ -200,7 +200,7 @@ In my **current role**, I work more on **DevSecOps** and platform engineering ac
 
 Overall, my role has evolved from **executing DevOps operations** to **designing, automating, securing, and improving delivery platforms**.
 
----
+
 
 # Question 5
 
@@ -225,7 +225,7 @@ Apart from managing CI/CD pipelines, I was involved in several DevOps activities
 
 The role gradually expanded from pipeline support to broader DevOps automation and deployment ownership.
 
----
+
 
 # Question 6
 
@@ -250,7 +250,7 @@ During on-call activities, I handled:
 
 I was not part of a dedicated application support team, but I actively supported production issues whenever they involved the DevOps or DevSecOps platform.
 
----
+
 
 # Question 7
 
@@ -266,7 +266,7 @@ Although there were a few smaller support activities during that period, my prim
 
 Working on the same project for a longer duration helped me gradually take ownership of more complex DevOps responsibilities.
 
----
+
 
 # Question 8
 
@@ -284,7 +284,7 @@ From a technical perspective, it was a **cloud-native microservices-based applic
 
 My role focused on supporting the DevOps platform by managing CI/CD pipelines, deployments, monitoring, automation, and release activities.
 
----
+
 
 # Question 9
 
@@ -329,7 +329,7 @@ From a DevOps perspective, my responsibilities included:
 * Automating deployment processes
 * Troubleshooting deployment and infrastructure issues
 
----
+
 
 # Question 10
 
@@ -366,7 +366,7 @@ The platform enables banks and financial organizations to securely process **car
 
 Technically, it is a **microservices-based application** running on a combination of **VMs and Kubernetes**. My role is mainly focused on **DevOps and DevSecOps**, where I automate CI/CD pipelines, standardize deployments, integrate security tools, and improve deployment reliability.
 
----
+
 
 # Question 12
 
@@ -392,7 +392,7 @@ My responsibilities include:
 
 My focus is to ensure **secure, reliable, and automated software delivery**.
 
----
+
 
 # Question 13
 
@@ -416,7 +416,7 @@ Although I'm not part of a dedicated **SRE team**, I do perform several operatio
 
 So, my primary ownership is DevOps and DevSecOps, with limited operational support whenever incidents fall within my scope.
 
----
+
 
 # Question 14
 
@@ -441,7 +441,7 @@ My responsibilities during on-call include:
 
 I am not part of the application support team, but I actively participate whenever the issue is related to **CI/CD, Kubernetes, infrastructure, or DevSecOps**.
 
----
+
 
 # Question 15
 
@@ -468,7 +468,7 @@ My typical day includes:
 
 Overall, my focus is on ensuring secure, reliable, and efficient software delivery.
 
----
+
 
 # Question 16
 
@@ -493,7 +493,7 @@ My responsibilities include:
 
 The goal is to integrate security into the CI/CD pipeline without slowing down software delivery.
 
----
+
 
 # Question 17
 
@@ -518,7 +518,7 @@ Specifically, I:
 
 This standardization significantly reduced onboarding effort and improved overall deployment reliability.
 
----
+
 
 # Question 18
 
@@ -548,7 +548,7 @@ As a result:
 
 This initiative received positive appreciation from both the client and internal stakeholders.
 
----
+
 
 # Question 19
 
@@ -573,7 +573,7 @@ I was responsible for:
 
 This helped establish a standardized and reusable deployment framework for multiple applications.
 
----
+
 
 # Question 20
 
@@ -628,7 +628,7 @@ My key automation contributions include:
 
 Overall, my goal has always been to make software delivery **faster, secure, repeatable, and reliable**.
 
----
+
 
 # Question 22
 
@@ -658,7 +658,7 @@ For quick automation inside Linux servers or Jenkins pipelines, I also use **Bas
 
 Whenever the automation becomes more complex or requires API integration, JSON parsing, or better maintainability, I prefer **Python**.
 
----
+
 
 # Question 23
 
@@ -691,7 +691,7 @@ This automation:
 * Improved consistency.
 * Ensured security quality gates were always enforced before deployment.
 
----
+
 
 # Question 24
 
@@ -748,7 +748,7 @@ In our project, Ingress also handled:
 
 Ingress provides centralized traffic management instead of exposing every application separately.
 
----
+
 
 # Question 25
 
@@ -768,7 +768,7 @@ kubectl get pods -n <namespace>
 
 Confirm which Pods are affected.
 
----
+
 
 ### Step 2 – Describe the Pod
 
@@ -785,7 +785,7 @@ Check:
 * Scheduling problems
 * OOMKilled events
 
----
+
 
 ### Step 3 – Check Container Logs
 
@@ -796,7 +796,7 @@ kubectl logs --previous <pod-name>
 
 Since the container is restarting, the previous logs are often the most useful.
 
----
+
 
 ### Step 4 – Verify Configuration
 
@@ -809,7 +809,7 @@ Check:
 * Image version
 * Startup command
 
----
+
 
 ### Step 5 – Verify Readiness/Liveness Probes
 
@@ -819,7 +819,7 @@ Many CrashLoopBackOff issues happen because:
 * Application startup takes longer.
 * Incorrect health endpoint.
 
----
+
 
 ### Step 6 – Check Resource Usage
 
@@ -834,7 +834,7 @@ Verify:
 * OOMKilled
 * Resource limits
 
----
+
 
 ### Step 7 – Check Recent Deployment
 
@@ -848,11 +848,11 @@ If the issue started after deployment, verify:
 * Deployment configuration
 * Recent code changes
 
----
+
 
 If required, I would rollback to the last stable version while continuing RCA to minimize production impact.
 
----
+
 
 # Question 26
 
@@ -878,7 +878,7 @@ I have worked on:
 
 The focus has always been to make infrastructure reusable, version-controlled, and consistent across environments.
 
----
+
 
 # Question 27
 
@@ -900,7 +900,7 @@ Check whether the application reports:
 * SSL issue
 * Incorrect JDBC URL
 
----
+
 
 ### 2. Validate Configuration
 
@@ -912,7 +912,7 @@ Verify:
 * JDBC connection string
 * Secrets and ConfigMaps
 
----
+
 
 ### 3. Test Network Connectivity
 
@@ -930,7 +930,7 @@ ping db-host
 nc -zv db-host 5432
 ```
 
----
+
 
 ### 4. Verify Database Availability
 
@@ -940,7 +940,7 @@ Check whether:
 * Listener is active.
 * Maximum connections are not exhausted.
 
----
+
 
 ### 5. Verify Network Policies / Security Groups
 
@@ -950,7 +950,7 @@ Ensure:
 * AWS Security Groups allow database access.
 * Firewall rules are correct.
 
----
+
 
 ### 6. Verify Recent Changes
 
@@ -961,11 +961,11 @@ If it started after deployment, compare:
 * Image version
 * Configuration changes
 
----
+
 
 Only after identifying the root cause would I apply the fix and validate connectivity before closing the incident.
 
----
+
 
 # Question 28
 
@@ -1006,7 +1006,7 @@ terraform apply
 
 The key objective is to recover the state without recreating production infrastructure.
 
----
+
 
 # Question 29
 
@@ -1034,7 +1034,7 @@ Benefits include:
 
 Local state files are suitable only for development or learning environments, not for production.
 
----
+
 
 # Question 30
 
@@ -1081,7 +1081,7 @@ To resolve this:
 
 This experience reinforced the importance of following Terraform backend best practices in production environments.
 
----
+
 
 # Question 32
 
@@ -1099,7 +1099,7 @@ If a container starts and exits immediately, my goal is to identify whether the 
 kubectl get pods -n <namespace>
 ```
 
----
+
 
 ### Step 2 — Describe the Pod
 
@@ -1116,7 +1116,7 @@ I verify:
 * Image pull errors
 * OOMKilled events
 
----
+
 
 ### Step 3 — Check Logs
 
@@ -1127,7 +1127,7 @@ kubectl logs --previous <pod-name>
 
 Previous logs are very useful because the container may have already restarted.
 
----
+
 
 ### Step 4 — Verify Deployment Configuration
 
@@ -1140,7 +1140,7 @@ I check:
 * Startup command
 * Image version
 
----
+
 
 ### Step 5 — Verify Resource Availability
 
@@ -1155,7 +1155,7 @@ Check:
 * Resource limits
 * OOMKilled
 
----
+
 
 ### Step 6 — Verify Health Probes
 
@@ -1165,7 +1165,7 @@ Many startup failures happen because:
 * Very low `initialDelaySeconds`
 * Application startup takes longer than expected
 
----
+
 
 ### Step 7 — Check Recent Changes
 
@@ -1182,7 +1182,7 @@ If the issue started after deployment, compare:
 
 If necessary, I would perform a **rollback** to restore service quickly while continuing the RCA.
 
----
+
 
 # Question 33
 
@@ -1202,7 +1202,7 @@ Check whether users receive:
 * SSL handshake failure
 * Certificate not trusted
 
----
+
 
 ### Step 2 — Verify Certificate Details
 
@@ -1219,7 +1219,7 @@ Verify:
 * Issuer
 * SAN entries
 
----
+
 
 ### Step 3 — Identify Where TLS Terminates
 
@@ -1230,7 +1230,7 @@ Depending on architecture, TLS may terminate at:
 * API Gateway
 * Reverse Proxy
 
----
+
 
 ### Step 4 — Kubernetes Verification
 
@@ -1248,7 +1248,7 @@ Verify:
 * Certificate mapping
 * Ingress configuration
 
----
+
 
 ### Step 5 — Verify Load Balancer
 
@@ -1258,7 +1258,7 @@ If TLS terminates at AWS ALB:
 * Listener configuration
 * Certificate association
 
----
+
 
 ### Step 6 — Renew Certificate
 
@@ -1271,7 +1271,7 @@ If expired:
 
 Finally, verify application accessibility from both browser and command line before closing the incident.
 
----
+
 
 # Question 34
 
@@ -1289,7 +1289,7 @@ Yes, I have a couple of questions.
 
 I believe understanding these areas will help me prepare better and contribute more effectively.
 
----
+
 
 # Question 35
 
@@ -1319,7 +1319,7 @@ My experience includes:
 
 I generally choose Python whenever the automation requires better readability, API integration, or more complex logic than Shell scripting.
 
----
+
 
 # Question 36
 

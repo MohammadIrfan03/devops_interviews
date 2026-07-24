@@ -93,7 +93,7 @@
 
 Thank you for the opportunity.
 
-I have around **4 years of experience** in **DevOps and DevSecOps**. I started my career at **TCS** as a **DevOps Engineer**, where I initially worked on an **e-Governance platform (National Single Window System)**. During that period, I was responsible for **CI/CD pipeline management**, **application deployments**, **Linux administration**, **Docker containerization**, **Kubernetes deployments**, and **monitoring using Prometheus and Grafana**. As I gained experience, I also started working on **Jenkins Shared Libraries**, **pipeline standardization**, and **Python and Shell scripting** to automate repetitive operational tasks.
+I have around **4 years of experience** in **DevOps and DevSecOps**. I started my career at **PREVIOUS COMPANY** as a **DevOps Engineer**, where I initially worked on an **e-Governance platform (National Single Window System)**. During that period, I was responsible for **CI/CD pipeline management**, **application deployments**, **Linux administration**, **Docker containerization**, **Kubernetes deployments**, and **monitoring using Prometheus and Grafana**. As I gained experience, I also started working on **Jenkins Shared Libraries**, **pipeline standardization**, and **Python and Shell scripting** to automate repetitive operational tasks.
 
 After around **2.5 years**, I moved to my current organization, where I am deployed to a **FinTech client (In-Solutions Global)** that provides **payment gateway solutions** for banking customers.
 
@@ -113,7 +113,7 @@ Overall, my career has evolved from **pipeline operations and deployment support
 
 Certainly.
 
-When I joined **TCS**, my initial focus was on understanding the organization's DevOps processes, tools, and release workflow. After completing the training period, I was assigned to an **e-Governance project**.
+When I joined **PREVIOUS COMPANY**, my initial focus was on understanding the organization's DevOps processes, tools, and release workflow. After completing the training period, I was assigned to an **e-Governance project**.
 
 Initially, my responsibilities included:
 
@@ -256,7 +256,7 @@ I was not part of a dedicated application support team, but I actively supported
 
 ### **Question:**
 
-**Was your first assignment at TCS a single project for two years, or did you work on multiple projects?**
+**Was your first assignment at PREVIOUS COMPANY a single project for two years, or did you work on multiple projects?**
 
 ### **Answer:**
 

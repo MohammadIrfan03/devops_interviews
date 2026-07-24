@@ -12,7 +12,7 @@
 
 6. Were you working **only on DevOps**, or were you also involved in **on-call support**?
 
-7. Was your first assignment at TCS a **single project** for two years, or did you work on **multiple projects**?
+7. Was your first assignment at PREVIOUS COMPANY a **single project** for two years, or did you work on **multiple projects**?
 
 8. What kind of **application** was your first project?
 
@@ -95,7 +95,7 @@ Thank you for the opportunity.
 
 I have around **4 years of experience** in **DevOps and DevSecOps**. I started my career at **PREVIOUS COMPANY** as a **DevOps Engineer**, where I initially worked on an **e-Governance platform (National Single Window System)**. During that period, I was responsible for **CI/CD pipeline management**, **application deployments**, **Linux administration**, **Docker containerization**, **Kubernetes deployments**, and **monitoring using Prometheus and Grafana**. As I gained experience, I also started working on **Jenkins Shared Libraries**, **pipeline standardization**, and **Python and Shell scripting** to automate repetitive operational tasks.
 
-After around **2.5 years**, I moved to my current organization, where I am deployed to a **FinTech client (In-Solutions Global)** that provides **payment gateway solutions** for banking customers.
+After around **2.5 years**, I moved to my current organization, where I am deployed to a **FinTech client (CLIENT NAME)** that provides **payment gateway solutions** for banking customers.
 
 In my current role, my responsibilities expanded beyond traditional DevOps into **DevSecOps**. I work on **CI/CD automation**, **Jenkins pipeline development**, **security tool integration (SAST, SCA, Secret Scanning, SBOM)**, **Docker**, **Kubernetes**, **AWS infrastructure**, and **Python-based automation**. I also support **production deployments**, **incident troubleshooting**, and work closely with developers to improve deployment reliability and standardize delivery processes.
 

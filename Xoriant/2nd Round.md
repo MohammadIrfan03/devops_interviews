@@ -93,7 +93,7 @@
 
 Thank you for the opportunity.
 
-I have around **4 years of experience** in **DevOps and DevSecOps**. I started my career at **PREVIOUS COMPANY** as a **DevOps Engineer**, where I initially worked on an **e-Governance platform (National Single Window System)**. During that period, I was responsible for **CI/CD pipeline management**, **application deployments**, **Linux administration**, **Docker containerization**, **Kubernetes deployments**, and **monitoring using Prometheus and Grafana**. As I gained experience, I also started working on **Jenkins Shared Libraries**, **pipeline standardization**, and **Python and Shell scripting** to automate repetitive operational tasks.
+I have around **4.5 years of experience** in **DevOps and DevSecOps**. I started my career at **PREVIOUS COMPANY** as a **DevOps Engineer**, where I initially worked on an **e-Governance platform (National Single Window System)**. During that period, I was responsible for **CI/CD pipeline management**, **application deployments**, **Linux administration**, **Docker containerization**, **Kubernetes deployments**, and **monitoring using Prometheus and Grafana**. As I gained experience, I also started working on **Jenkins Shared Libraries**, **pipeline standardization**, and **Python and Shell scripting** to automate repetitive operational tasks.
 
 After around **2.5 years**, I moved to my current organization, where I am deployed to a **FinTech client (CLIENT NAME)** that provides **payment gateway solutions** for banking customers.
 

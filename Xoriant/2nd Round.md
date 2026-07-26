@@ -78,7 +78,7 @@
 
 39. Can you **write a Python program** to solve the following problem: **Find the shortest unique prefix for each word in a given array**?
 
-----
+---
 
 # Answers
 

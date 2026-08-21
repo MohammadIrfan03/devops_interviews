@@ -1,5 +1,7 @@
 # Interview Questions: 1st Round
 
+
+
 1. **Tell about yourself, your roles and responsibilities, your achievements, or anything interesting.**
 
 2. **You are taking care of the security part as well, right?**
@@ -37,8 +39,6 @@
 18. **Suppose you're calling an API endpoint and receiving an HTTP 500 error. How would you debug this scenario?**
 
 19. **Do you have any questions for us?**
-
-
 
 ### Main technical topics covered
 

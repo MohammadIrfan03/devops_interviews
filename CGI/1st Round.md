@@ -1,5 +1,6 @@
 ## Questions: 1st Round 
 
+
 1. Did you receive the Job Description (JD)?
 2. How many years of experience do you have?
 3. How would you rate your Python coding/scripting skills out of 5?
@@ -109,7 +110,9 @@
 21. What is threat modeling? 
 22. Which threat-modeling frameworks have you used? 
 23. Which Python libraries have you used? 
-How would you handle false positives from a security scanner? (suggested preparation topic for the next round)
+    How would you handle false positives from a security scanner? (suggested preparation topic for the next round)
+
+---
 
 ## Answers: 
 
